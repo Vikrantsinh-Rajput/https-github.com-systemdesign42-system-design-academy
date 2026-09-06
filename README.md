@@ -1,1 +1,1 @@
-# https-github.com-systemdesign42-system-design-academy
+systemdesign42-system-design-academy
